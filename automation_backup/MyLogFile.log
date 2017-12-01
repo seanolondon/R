@@ -1,0 +1,325 @@
+[1] TRUE
+[1] TRUE
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] TRUE
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] TRUE
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] TRUE
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] TRUE
+[1] "write csv"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] TRUE
+[1] "write csv"
+[1] "start spatial"
+[1] "start arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] "finish arc"
+[1] "start postgis"
+[1] TRUE
+   user  system elapsed 
+  55.94    0.81   99.06 
+[1] TRUE
+   user  system elapsed 
+   0.61    0.00    3.38 
+data frame with 0 columns and 0 rows
+data frame with 0 columns and 0 rows
+[1] TRUE
+[1] "finish postgis"
+[1] "start test"
+OGR data source with driver: OpenFileGDB 
+Source: "abp.gdb", layer: "addressBasePlusLondon_201710"
+with 1510 features
+It has 80 fields
+[1] "SUCCESSFUL"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] TRUE
+[1] "write csv"
+[1] "start spatial"
+[1] "start arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] "finish arc"
+[1] "start postgis"
+[1] TRUE
+   user  system elapsed 
+  51.06    0.73   94.15 
+[1] TRUE
+   user  system elapsed 
+   0.41    0.00    3.22 
+data frame with 0 columns and 0 rows
+data frame with 0 columns and 0 rows
+[1] TRUE
+[1] "finish postgis"
+[1] "start test"
+OGR data source with driver: OpenFileGDB 
+Source: "abp.gdb", layer: "addressBasePlusLondon_201710"
+with 1510 features
+It has 80 fields
+[1] "SUCCESSFUL"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] TRUE
+[1] "write csv"
+[1] "start spatial"
+[1] "start arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] "finish arc"
+[1] "start postgis"
+[1] TRUE
+   user  system elapsed 
+  47.89    0.83   91.40 
+[1] TRUE
+   user  system elapsed 
+   0.55    0.01    3.06 
+data frame with 0 columns and 0 rows
+data frame with 0 columns and 0 rows
+[1] TRUE
+[1] "finish postgis"
+[1] "start test"
+OGR data source with driver: OpenFileGDB 
+Source: "abp.gdb", layer: "addressBasePlusLondon_201710"
+with 1510 features
+It has 80 fields
+[1] "SUCCESSFUL"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] TRUE
+Read 83.8% of 47716 rowsRead 47716 rows and 77 (of 77) columns from 0.020 GB file in 00:00:03
+Read 81.7% of 61212 rowsRead 61212 rows and 77 (of 77) columns from 0.026 GB file in 00:00:03
+Read 28.7% of 139331 rowsRead 93.3% of 139331 rowsRead 139331 rows and 77 (of 77) columns from 0.059 GB file in 00:00:05
+Read 0.0% of 77433 rowsRead 77433 rows and 77 (of 77) columns from 0.032 GB file in 00:00:06
+Read 0.0% of 205506 rowsRead 38.9% of 205506 rowsRead 82.7% of 205506 rowsRead 205506 rows and 77 (of 77) columns from 0.088 GB file in 00:00:06
+Read 59.6% of 235022 rowsRead 93.6% of 235022 rowsRead 235022 rows and 77 (of 77) columns from 0.098 GB file in 00:00:04
+Read 31.6% of 95002 rowsRead 95002 rows and 77 (of 77) columns from 0.039 GB file in 00:00:08
+Read 0.0% of 104483 rowsRead 86.1% of 104483 rowsRead 104483 rows and 77 (of 77) columns from 0.043 GB file in 00:00:04
+Read 68.1% of 190987 rowsRead 190987 rows and 77 (of 77) columns from 0.083 GB file in 00:00:03
+Read 12.1% of 247049 rowsRead 48.6% of 247049 rowsRead 85.0% of 247049 rowsRead 247049 rows and 77 (of 77) columns from 0.105 GB file in 00:00:14
+Read 77.4% of 180913 rowsRead 180913 rows and 77 (of 77) columns from 0.077 GB file in 00:00:03
+Read 0.0% of 13598 rowsRead 13598 rows and 77 (of 77) columns from 0.006 GB file in 00:00:05
+[1] "write csv"
+No list columns are present. Setting sep2='' otherwise quote='auto' would quote fields containing sep2.
+maxLineLen=501 from sample. Found in 0.018s
+Writing column names ... done in 0.001s
+Writing 5191831 rows in 621 batches of 8371 rows (each buffer size 8MB, showProgress=1, nth=8) ... 
+Written 16.8% of 5191831 rows in 2 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 25.8% of 5191831 rows in 3 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 8 secs.      Written 31.0% of 5191831 rows in 4 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 8 secs.      Written 32.2% of 5191831 rows in 5 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 10 secs.      Written 37.4% of 5191831 rows in 6 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 10 secs.      Written 43.9% of 5191831 rows in 7 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 8 secs.      Written 45.1% of 5191831 rows in 8 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 47.7% of 5191831 rows in 9 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 50.3% of 5191831 rows in 10 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 52.9% of 5191831 rows in 11 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 54.2% of 5191831 rows in 12 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 10 secs.      Written 55.5% of 5191831 rows in 13 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 10 secs.      Written 59.3% of 5191831 rows in 14 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 60.6% of 5191831 rows in 15 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 64.5% of 5191831 rows in 16 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 8 secs.      Written 65.8% of 5191831 rows in 17 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 8 secs.      Written 67.1% of 5191831 rows in 18 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 8 secs.      Written 72.2% of 5191831 rows in 19 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 7 secs.      Written 74.8% of 5191831 rows in 20 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 6 secs.      Written 80.0% of 5191831 rows in 21 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 5 secs.      Written 82.6% of 5191831 rows in 22 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 4 secs.      Written 85.1% of 5191831 rows in 23 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 4 secs.      Written 87.7% of 5191831 rows in 24 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 3 secs.      Written 90.3% of 5191831 rows in 25 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 2 secs.      Written 91.6% of 5191831 rows in 26 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 2 secs.      Written 92.9% of 5191831 rows in 27 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 2 secs.      Written 95.5% of 5191831 rows in 28 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 1 secs.      Written 96.7% of 5191831 rows in 29 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 0 secs.      Written 99.3% of 5191831 rows in 30 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 0 secs.                                                                                                                                           done (actual nth=8, anyBufferGrown=no, maxBuffUsed=40%)
+[1] "start spatial"
+[1] "start arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] "finish arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] FALSE
+Read 65.4% of 61146 rowsRead 61146 rows and 77 (of 77) columns from 0.026 GB file in 00:00:03
+Read 28.7% of 139344 rowsRead 78.9% of 139344 rowsRead 139344 rows and 77 (of 77) columns from 0.059 GB file in 00:00:05
+Read 0.0% of 77415 rowsRead 77415 rows and 77 (of 77) columns from 0.032 GB file in 00:00:06
+Read 0.0% of 204942 rowsRead 39.0% of 204942 rowsRead 78.1% of 204942 rowsRead 204942 rows and 77 (of 77) columns from 0.087 GB file in 00:00:06
+Read 51.1% of 234617 rowsRead 85.2% of 234617 rowsRead 234617 rows and 77 (of 77) columns from 0.097 GB file in 00:00:04
+Read 42.1% of 95014 rowsRead 95014 rows and 77 (of 77) columns from 0.039 GB file in 00:00:08
+Read 0.0% of 104393 rowsRead 76.6% of 104393 rowsRead 104393 rows and 77 (of 77) columns from 0.043 GB file in 00:00:04
+Read 68.2% of 190659 rowsRead 190659 rows and 77 (of 77) columns from 0.082 GB file in 00:00:04
+Read 12.1% of 246932 rowsRead 40.5% of 246932 rowsRead 68.8% of 246932 rowsRead 93.1% of 246932 rowsRead 246932 rows and 77 (of 77) columns from 0.105 GB file in 00:00:16
+Read 77.5% of 180642 rowsRead 180642 rows and 77 (of 77) columns from 0.077 GB file in 00:00:03
+Read 0.0% of 13600 rowsRead 13600 rows and 77 (of 77) columns from 0.006 GB file in 00:00:05
+[1] "write csv"
+No list columns are present. Setting sep2='' otherwise quote='auto' would quote fields containing sep2.
+maxLineLen=496 from sample. Found in 0.020s
+Writing column names ... done in 0.000s
+Writing 5186643 rows in 614 batches of 8456 rows (each buffer size 8MB, showProgress=1, nth=8) ... 
+Written 12.6% of 5186643 rows in 2 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 13 secs.      Written 23.0% of 5186643 rows in 3 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 10 secs.      Written 24.3% of 5186643 rows in 4 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 12 secs.      Written 28.2% of 5186643 rows in 5 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 12 secs.      Written 37.3% of 5186643 rows in 6 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 10 secs.      Written 43.9% of 5186643 rows in 7 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 8 secs.      Written 47.8% of 5186643 rows in 8 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 8 secs.      Written 51.7% of 5186643 rows in 9 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 8 secs.      Written 60.8% of 5186643 rows in 10 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 6 secs.      Written 68.6% of 5186643 rows in 11 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 5 secs.      Written 69.9% of 5186643 rows in 12 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 5 secs.      Written 71.2% of 5186643 rows in 13 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 5 secs.      Written 73.9% of 5186643 rows in 14 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 4 secs.      Written 76.5% of 5186643 rows in 15 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 4 secs.      Written 79.1% of 5186643 rows in 16 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 4 secs.      Written 80.4% of 5186643 rows in 17 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 4 secs.      Written 81.7% of 5186643 rows in 18 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 4 secs.      Written 83.0% of 5186643 rows in 19 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 3 secs.      Written 85.6% of 5186643 rows in 20 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 3 secs.      Written 86.9% of 5186643 rows in 21 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 3 secs.      Written 88.2% of 5186643 rows in 22 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 2 secs.      Written 89.5% of 5186643 rows in 23 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 2 secs.      Written 92.1% of 5186643 rows in 24 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 2 secs.      Written 94.7% of 5186643 rows in 25 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 1 secs.      Written 96.0% of 5186643 rows in 27 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 1 secs.      Written 98.6% of 5186643 rows in 28 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 0 secs.                                                                                                                                           done (actual nth=8, anyBufferGrown=no, maxBuffUsed=41%)
+[1] "start spatial"
+[1] "start arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] "finish arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] FALSE
+Read 74.4% of 26869 rowsRead 26869 rows and 77 (of 77) columns from 0.012 GB file in 00:00:03
+Read 65.4% of 61143 rowsRead 61143 rows and 77 (of 77) columns from 0.026 GB file in 00:00:03
+Read 28.7% of 139245 rowsRead 93.4% of 139245 rowsRead 139245 rows and 77 (of 77) columns from 0.059 GB file in 00:00:05
+Read 0.0% of 77385 rowsRead 90.5% of 77385 rowsRead 77385 rows and 77 (of 77) columns from 0.032 GB file in 00:00:06
+Read 0.0% of 204251 rowsRead 44.1% of 204251 rowsRead 83.2% of 204251 rowsRead 204251 rows and 77 (of 77) columns from 0.087 GB file in 00:00:06
+Read 55.5% of 234262 rowsRead 89.6% of 234262 rowsRead 234262 rows and 77 (of 77) columns from 0.097 GB file in 00:00:04
+Read 73.8% of 94915 rowsRead 94915 rows and 77 (of 77) columns from 0.039 GB file in 00:00:08
+Read 89.9% of 100067 rowsRead 100067 rows and 77 (of 77) columns from 0.043 GB file in 00:00:03
+Read 0.0% of 104310 rowsRead 67.1% of 104310 rowsRead 104310 rows and 77 (of 77) columns from 0.043 GB file in 00:00:07
+Read 52.7% of 189833 rowsRead 79.0% of 189833 rowsRead 189833 rows and 77 (of 77) columns from 0.082 GB file in 00:00:05
+Read 16.2% of 247458 rowsRead 48.5% of 247458 rowsRead 80.8% of 247458 rowsRead 247458 rows and 77 (of 77) columns from 0.106 GB file in 00:00:16
+Read 77.6% of 180418 rowsRead 180418 rows and 77 (of 77) columns from 0.077 GB file in 00:00:03
+Read 98.6% of 141978 rowsRead 141978 rows and 77 (of 77) columns from 0.061 GB file in 00:00:03
+[1] "write csv"
+No list columns are present. Setting sep2='' otherwise quote='auto' would quote fields containing sep2.
+maxLineLen=500 from sample. Found in 0.017s
+Writing column names ... done in 0.000s
+Writing 5180857 rows in 618 batches of 8388 rows (each buffer size 8MB, showProgress=1, nth=8) ... 
+Written 9.2% of 5180857 rows in 2 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 19 secs.      Written 13.1% of 5180857 rows in 3 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 19 secs.      Written 18.3% of 5180857 rows in 4 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 17 secs.      Written 22.2% of 5180857 rows in 5 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 17 secs.      Written 28.7% of 5180857 rows in 6 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 14 secs.      Written 33.8% of 5180857 rows in 7 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 13 secs.      Written 39.0% of 5180857 rows in 8 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 12 secs.      Written 41.6% of 5180857 rows in 9 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 12 secs.      Written 45.5% of 5180857 rows in 10 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 11 secs.      Written 46.8% of 5180857 rows in 11 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 12 secs.      Written 52.0% of 5180857 rows in 12 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 11 secs.      Written 57.2% of 5180857 rows in 13 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 59.7% of 5180857 rows in 14 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 67.5% of 5180857 rows in 15 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 7 secs.      Written 74.0% of 5180857 rows in 16 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 5 secs.      Written 77.9% of 5180857 rows in 18 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 5 secs.      Written 80.5% of 5180857 rows in 19 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 4 secs.      Written 81.8% of 5180857 rows in 20 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 4 secs.      Written 85.6% of 5180857 rows in 21 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 3 secs.      Written 86.9% of 5180857 rows in 22 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 3 secs.      Written 89.5% of 5180857 rows in 23 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 2 secs.      Written 90.8% of 5180857 rows in 24 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 2 secs.      Written 94.7% of 5180857 rows in 25 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 1 secs.      Written 96.0% of 5180857 rows in 26 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 1 secs.      Written 97.3% of 5180857 rows in 27 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 0 secs.      Written 98.6% of 5180857 rows in 28 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 0 secs.      Written 99.9% of 5180857 rows in 29 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 0 secs.                                                                                                                                           done (actual nth=8, anyBufferGrown=no, maxBuffUsed=40%)
+[1] "start spatial"
+[1] "start arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] "finish arc"
+[1] TRUE
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] FALSE
+Read 65.5% of 61083 rowsRead 61083 rows and 77 (of 77) columns from 0.026 GB file in 00:00:03
+Read 28.7% of 139219 rowsRead 86.2% of 139219 rowsRead 139219 rows and 77 (of 77) columns from 0.059 GB file in 00:00:06
+Read 0.0% of 77284 rowsRead 77284 rows and 77 (of 77) columns from 0.032 GB file in 00:00:06
+Read 0.0% of 204031 rowsRead 39.2% of 204031 rowsRead 78.4% of 204031 rowsRead 204031 rows and 77 (of 77) columns from 0.087 GB file in 00:00:05
+Read 47.0% of 234210 rowsRead 76.9% of 234210 rowsRead 234210 rows and 77 (of 77) columns from 0.097 GB file in 00:00:05
+Read 94.9% of 94885 rowsRead 94885 rows and 77 (of 77) columns from 0.039 GB file in 00:00:08
+Read 0.0% of 104254 rowsRead 57.6% of 104254 rowsRead 104254 rows and 77 (of 77) columns from 0.043 GB file in 00:00:04
+Read 63.4% of 189260 rowsRead 189260 rows and 77 (of 77) columns from 0.082 GB file in 00:00:03
+Read 16.2% of 247125 rowsRead 44.5% of 247125 rowsRead 76.9% of 247125 rowsRead 247125 rows and 77 (of 77) columns from 0.105 GB file in 00:00:15
+Read 66.6% of 180166 rowsRead 180166 rows and 77 (of 77) columns from 0.077 GB file in 00:00:03
+Read 0.0% of 1332 rowsRead 1332 rows and 77 (of 77) columns from 0.001 GB file in 00:00:13
+[1] "write csv"
+No list columns are present. Setting sep2='' otherwise quote='auto' would quote fields containing sep2.
+maxLineLen=488 from sample. Found in 0.015s
+Writing column names ... done in 0.001s
+Writing 5174987 rows in 603 batches of 8594 rows (each buffer size 8MB, showProgress=1, nth=8) ... 
+Written 12.1% of 5174987 rows in 2 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 14 secs.      Written 18.8% of 5174987 rows in 3 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 12 secs.      Written 26.7% of 5174987 rows in 4 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 10 secs.      Written 30.7% of 5174987 rows in 5 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 11 secs.      Written 37.4% of 5174987 rows in 6 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 10 secs.      Written 40.0% of 5174987 rows in 7 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 10 secs.      Written 44.0% of 5174987 rows in 8 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 10 secs.      Written 48.0% of 5174987 rows in 9 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 9 secs.      Written 57.3% of 5174987 rows in 10 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 7 secs.      Written 60.0% of 5174987 rows in 12 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 8 secs.      Written 65.3% of 5174987 rows in 13 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 6 secs.      Written 67.9% of 5174987 rows in 14 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 6 secs.      Written 73.2% of 5174987 rows in 15 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 5 secs.      Written 74.6% of 5174987 rows in 16 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 5 secs.      Written 75.9% of 5174987 rows in 17 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 5 secs.      Written 79.9% of 5174987 rows in 18 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 4 secs.      Written 82.5% of 5174987 rows in 19 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 4 secs.      Written 85.2% of 5174987 rows in 20 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 3 secs.      Written 87.8% of 5174987 rows in 21 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 2 secs.      Written 90.5% of 5174987 rows in 22 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 2 secs.      Written 93.2% of 5174987 rows in 23 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 1 secs.      Written 95.8% of 5174987 rows in 24 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 1 secs.      Written 99.8% of 5174987 rows in 25 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 0 secs.                                                                                                                                           done (actual nth=8, anyBufferGrown=no, maxBuffUsed=41%)
+[1] "start spatial"
+[1] "start arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] "finish arc"
+[1] "success"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] FALSE
+Read 65.5% of 61055 rowsRead 61055 rows and 77 (of 77) columns from 0.026 GB file in 00:00:03
+Read 28.8% of 139084 rowsRead 93.5% of 139084 rowsRead 139084 rows and 77 (of 77) columns from 0.059 GB file in 00:00:05
+Read 0.0% of 77066 rowsRead 77066 rows and 77 (of 77) columns from 0.032 GB file in 00:00:06
+Read 0.0% of 203420 rowsRead 39.3% of 203420 rowsRead 78.7% of 203420 rowsRead 203420 rows and 77 (of 77) columns from 0.087 GB file in 00:00:06
+Read 55.5% of 234076 rowsRead 94.0% of 234076 rowsRead 234076 rows and 77 (of 77) columns from 0.097 GB file in 00:00:04
+Read 0.0% of 104175 rowsRead 76.8% of 104175 rowsRead 104175 rows and 77 (of 77) columns from 0.043 GB file in 00:00:04
+Read 68.8% of 189055 rowsRead 189055 rows and 77 (of 77) columns from 0.082 GB file in 00:00:03
+Read 16.2% of 246657 rowsRead 44.6% of 246657 rowsRead 73.0% of 246657 rowsRead 246657 rows and 77 (of 77) columns from 0.105 GB file in 00:00:15
+Read 72.1% of 180194 rowsRead 180194 rows and 77 (of 77) columns from 0.077 GB file in 00:00:03
+Read 84.9% of 141341 rowsRead 141341 rows and 77 (of 77) columns from 0.061 GB file in 00:00:03
+Read 0.0% of 106766 rowsRead 74.9% of 106766 rowsRead 106766 rows and 77 (of 77) columns from 0.046 GB file in 00:00:05
+[1] "write csv"
+No list columns are present. Setting sep2='' otherwise quote='auto' would quote fields containing sep2.
+maxLineLen=505 from sample. Found in 0.017s
+Writing column names ... done in 0.001s
+Writing 5168599 rows in 623 batches of 8305 rows (each buffer size 8MB, showProgress=1, nth=8) ... 
+Written 7.2% of 5168599 rows in 2 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 25 secs.      Written 16.2% of 5168599 rows in 3 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 15 secs.      Written 18.8% of 5168599 rows in 4 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 17 secs.      Written 27.8% of 5168599 rows in 5 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 12 secs.      Written 31.7% of 5168599 rows in 6 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 12 secs.      Written 39.4% of 5168599 rows in 7 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 10 secs.      Written 44.5% of 5168599 rows in 8 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 47.1% of 5168599 rows in 9 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 10 secs.      Written 50.9% of 5168599 rows in 10 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 54.8% of 5168599 rows in 11 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 59.9% of 5168599 rows in 12 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 8 secs.      Written 62.5% of 5168599 rows in 13 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 7 secs.      Written 66.4% of 5168599 rows in 14 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 7 secs.      Written 68.9% of 5168599 rows in 15 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 6 secs.      Written 74.1% of 5168599 rows in 16 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 5 secs.      Written 77.9% of 5168599 rows in 17 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 4 secs.      Written 80.5% of 5168599 rows in 18 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 4 secs.      Written 83.1% of 5168599 rows in 19 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 3 secs.      Written 88.2% of 5168599 rows in 20 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 2 secs.      Written 90.8% of 5168599 rows in 21 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 2 secs.      Written 94.6% of 5168599 rows in 22 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 1 secs.      Written 98.5% of 5168599 rows in 23 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 0 secs.                                                                                                                                           done (actual nth=8, anyBufferGrown=no, maxBuffUsed=40%)
+[1] "start spatial"
+[1] "start arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] "finish arc"
+[1] "success"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] FALSE
+Read 81.9% of 61043 rowsRead 61043 rows and 77 (of 77) columns from 0.026 GB file in 00:00:03
+Read 28.8% of 138920 rowsRead 86.4% of 138920 rowsRead 138920 rows and 77 (of 77) columns from 0.059 GB file in 00:00:05
+Read 95.8% of 135650 rowsRead 135650 rows and 77 (of 77) columns from 0.056 GB file in 00:00:03
+Read 0.0% of 77107 rowsRead 77107 rows and 77 (of 77) columns from 0.032 GB file in 00:00:06
+Read 0.0% of 203214 rowsRead 39.4% of 203214 rowsRead 78.7% of 203214 rowsRead 203214 rows and 77 (of 77) columns from 0.087 GB file in 00:00:06
+Read 46.9% of 234347 rowsRead 76.8% of 234347 rowsRead 234347 rows and 77 (of 77) columns from 0.097 GB file in 00:00:05
+Read 0.0% of 104183 rowsRead 67.2% of 104183 rowsRead 104183 rows and 77 (of 77) columns from 0.043 GB file in 00:00:04
+Read 63.7% of 188440 rowsRead 188440 rows and 77 (of 77) columns from 0.081 GB file in 00:00:04
+Read 16.2% of 246567 rowsRead 48.7% of 246567 rowsRead 81.1% of 246567 rowsRead 246567 rows and 77 (of 77) columns from 0.105 GB file in 00:00:15
+Read 83.3% of 180109 rowsRead 180109 rows and 77 (of 77) columns from 0.077 GB file in 00:00:03
+Read 99.4% of 140889 rowsRead 140889 rows and 77 (of 77) columns from 0.061 GB file in 00:00:03
+Read 0.0% of 106706 rowsRead 75.0% of 106706 rowsRead 106706 rows and 77 (of 77) columns from 0.046 GB file in 00:00:05
+[1] "write csv"
+No list columns are present. Setting sep2='' otherwise quote='auto' would quote fields containing sep2.
+maxLineLen=501 from sample. Found in 0.016s
+Writing column names ... done in 0.000s
+Writing 5163469 rows in 617 batches of 8371 rows (each buffer size 8MB, showProgress=1, nth=8) ... 
+Written 17.0% of 5163469 rows in 2 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 9 secs.      Written 19.6% of 5163469 rows in 3 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 12 secs.      Written 20.9% of 5163469 rows in 4 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 15 secs.      Written 28.7% of 5163469 rows in 5 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 12 secs.      Written 32.6% of 5163469 rows in 6 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 12 secs.      Written 37.8% of 5163469 rows in 7 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 11 secs.      Written 43.0% of 5163469 rows in 8 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 10 secs.      Written 44.3% of 5163469 rows in 9 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 11 secs.      Written 48.1% of 5163469 rows in 10 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 10 secs.      Written 57.2% of 5163469 rows in 11 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 8 secs.      Written 61.1% of 5163469 rows in 12 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 7 secs.      Written 62.4% of 5163469 rows in 13 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 7 secs.      Written 63.7% of 5163469 rows in 14 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 7 secs.      Written 65.0% of 5163469 rows in 15 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 8 secs.      Written 67.6% of 5163469 rows in 16 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 7 secs.      Written 70.2% of 5163469 rows in 17 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 7 secs.      Written 71.5% of 5163469 rows in 18 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 7 secs.      Written 74.1% of 5163469 rows in 19 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 6 secs.      Written 76.7% of 5163469 rows in 20 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 6 secs.      Written 78.0% of 5163469 rows in 21 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 5 secs.      Written 79.3% of 5163469 rows in 22 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 5 secs.      Written 80.6% of 5163469 rows in 23 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 5 secs.      Written 81.9% of 5163469 rows in 24 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 5 secs.      Written 83.2% of 5163469 rows in 26 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 5 secs.      Written 85.8% of 5163469 rows in 27 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 4 secs.      Written 87.1% of 5163469 rows in 28 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 4 secs.      Written 88.4% of 5163469 rows in 29 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 3 secs.      Written 89.7% of 5163469 rows in 30 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 3 secs.      Written 94.8% of 5163469 rows in 31 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=40%. Finished in 1 secs.                                                                                                                                           done (actual nth=8, anyBufferGrown=no, maxBuffUsed=40%)
+[1] "start spatial"
+[1] "start arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] "finish arc"
+[1] "success"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] FALSE
+Read 81.9% of 61036 rowsRead 61036 rows and 77 (of 77) columns from 0.026 GB file in 00:00:03
+Read 28.8% of 138864 rowsRead 36.0% of 138864 rowsRead 86.4% of 138864 rowsRead 138864 rows and 77 (of 77) columns from 0.059 GB file in 00:00:06
+Read 0.0% of 76958 rowsRead 76958 rows and 77 (of 77) columns from 0.032 GB file in 00:00:06
+Read 0.0% of 203207 rowsRead 39.4% of 203207 rowsRead 83.7% of 203207 rowsRead 203207 rows and 77 (of 77) columns from 0.087 GB file in 00:00:06
+Read 51.3% of 234140 rowsRead 85.4% of 234140 rowsRead 234140 rows and 77 (of 77) columns from 0.097 GB file in 00:00:04
+Read 0.0% of 104107 rowsRead 67.2% of 104107 rowsRead 104107 rows and 77 (of 77) columns from 0.043 GB file in 00:00:05
+Read 47.9% of 188036 rowsRead 85.1% of 188036 rowsRead 188036 rows and 77 (of 77) columns from 0.081 GB file in 00:00:04
+Read 20.3% of 246401 rowsRead 48.7% of 246401 rowsRead 77.1% of 246401 rowsRead 246401 rows and 77 (of 77) columns from 0.105 GB file in 00:00:16
+Read 77.8% of 180060 rowsRead 180060 rows and 77 (of 77) columns from 0.077 GB file in 00:00:03
+Read 85.2% of 140772 rowsRead 140772 rows and 77 (of 77) columns from 0.061 GB file in 00:00:03
+Read 0.0% of 106629 rowsRead 84.4% of 106629 rowsRead 106629 rows and 77 (of 77) columns from 0.046 GB file in 00:00:05
+[1] "write csv"
+No list columns are present. Setting sep2='' otherwise quote='auto' would quote fields containing sep2.
+maxLineLen=485 from sample. Found in 0.016s
+Writing column names ... done in 0.000s
+Writing 5158642 rows in 597 batches of 8648 rows (each buffer size 8MB, showProgress=1, nth=8) ... 
+Written 7.9% of 5158642 rows in 2 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 23 secs.      Written 15.9% of 5158642 rows in 3 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 15 secs.      Written 19.9% of 5158642 rows in 4 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 16 secs.      Written 21.3% of 5158642 rows in 5 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 18 secs.      Written 29.3% of 5158642 rows in 6 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 14 secs.      Written 36.0% of 5158642 rows in 7 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 12 secs.      Written 40.1% of 5158642 rows in 8 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 11 secs.      Written 45.4% of 5158642 rows in 9 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 10 secs.      Written 48.1% of 5158642 rows in 10 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 10 secs.      Written 54.8% of 5158642 rows in 11 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 9 secs.      Written 56.2% of 5158642 rows in 12 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 9 secs.      Written 60.2% of 5158642 rows in 13 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 8 secs.      Written 62.9% of 5158642 rows in 14 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 8 secs.      Written 66.9% of 5158642 rows in 15 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 7 secs.      Written 68.2% of 5158642 rows in 16 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 7 secs.      Written 74.9% of 5158642 rows in 17 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 5 secs.      Written 76.3% of 5158642 rows in 18 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 5 secs.      Written 77.6% of 5158642 rows in 19 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 5 secs.      Written 87.0% of 5158642 rows in 20 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 2 secs.      Written 92.4% of 5158642 rows in 21 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 1 secs.      Written 93.7% of 5158642 rows in 22 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 1 secs.      Written 96.4% of 5158642 rows in 23 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=42%. Finished in 0 secs.                                                                                                                                           done (actual nth=8, anyBufferGrown=no, maxBuffUsed=42%)
+[1] "start spatial"
+[1] "start arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] "finish arc"
+[1] "success"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] FALSE
+Read 82.0% of 60983 rowsRead 60983 rows and 77 (of 77) columns from 0.026 GB file in 00:00:03
+Read 28.8% of 138671 rowsRead 86.5% of 138671 rowsRead 138671 rows and 77 (of 77) columns from 0.059 GB file in 00:00:05
+Read 0.0% of 76668 rowsRead 91.3% of 76668 rowsRead 76668 rows and 77 (of 77) columns from 0.032 GB file in 00:00:06
+Read 0.0% of 203191 rowsRead 34.5% of 203191 rowsRead 78.7% of 203191 rowsRead 203191 rows and 77 (of 77) columns from 0.087 GB file in 00:00:06
+Read 59.9% of 233728 rowsRead 94.1% of 233728 rowsRead 233728 rows and 77 (of 77) columns from 0.097 GB file in 00:00:04
+Read 0.0% of 104026 rowsRead 76.9% of 104026 rowsRead 104026 rows and 77 (of 77) columns from 0.043 GB file in 00:00:04
+Read 64.0% of 187576 rowsRead 187576 rows and 77 (of 77) columns from 0.081 GB file in 00:00:04
+Read 20.3% of 246019 rowsRead 52.8% of 246019 rowsRead 85.4% of 246019 rowsRead 246019 rows and 77 (of 77) columns from 0.105 GB file in 00:00:16
+Read 77.8% of 179930 rowsRead 179930 rows and 77 (of 77) columns from 0.076 GB file in 00:00:03
+Read 99.8% of 130208 rowsRead 130208 rows and 77 (of 77) columns from 0.056 GB file in 00:00:03
+Read 0.0% of 106612 rowsRead 65.7% of 106612 rowsRead 106612 rows and 77 (of 77) columns from 0.046 GB file in 00:00:05
+[1] "write csv"
+No list columns are present. Setting sep2='' otherwise quote='auto' would quote fields containing sep2.
+maxLineLen=498 from sample. Found in 0.016s
+Writing column names ... done in 0.000s
+Writing 5150717 rows in 612 batches of 8422 rows (each buffer size 8MB, showProgress=1, nth=8) ... 
+Written 12.8% of 5150717 rows in 2 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 13 secs.      Written 19.3% of 5150717 rows in 3 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 12 secs.      Written 20.6% of 5150717 rows in 4 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 15 secs.      Written 27.1% of 5150717 rows in 5 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 13 secs.      Written 35.0% of 5150717 rows in 6 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 11 secs.      Written 36.3% of 5150717 rows in 7 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 12 secs.      Written 38.9% of 5150717 rows in 8 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 12 secs.      Written 42.8% of 5150717 rows in 9 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 12 secs.      Written 49.4% of 5150717 rows in 10 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 10 secs.      Written 52.0% of 5150717 rows in 11 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 10 secs.      Written 58.5% of 5150717 rows in 12 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 8 secs.      Written 62.5% of 5150717 rows in 13 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 7 secs.      Written 69.0% of 5150717 rows in 14 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 6 secs.      Written 71.6% of 5150717 rows in 15 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 5 secs.      Written 74.2% of 5150717 rows in 16 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 5 secs.      Written 79.5% of 5150717 rows in 17 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 4 secs.      Written 86.0% of 5150717 rows in 18 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 2 secs.      Written 88.6% of 5150717 rows in 19 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 2 secs.      Written 91.2% of 5150717 rows in 20 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 1 secs.      Written 95.2% of 5150717 rows in 21 secs using 8 threads. anyBufferGrown=no; maxBuffUsed=41%. Finished in 1 secs.                                                                                                                                           done (actual nth=8, anyBufferGrown=no, maxBuffUsed=41%)
+[1] "start spatial"
+[1] "start arc"
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+product: ArcGIS Pro ( 12.0.0.8933 )
+license: Advanced 
+[1] "finish arc"
+[1] "success"

@@ -1,0 +1,208 @@
+2017-10-24 10:08:11|   0.3|  0.3|INFORM|FME 2017.0.0.1 (20170316 - Build 17271 - WIN64)
+2017-10-24 10:08:11|   0.3|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\FME2017\'
+2017-10-24 10:08:11|   0.3|  0.0|INFORM|FME Oracle Edition (node locked-crc)
+2017-10-24 10:08:11|   0.3|  0.0|INFORM|Serial Number: GMDX-QAC9-126T
+2017-10-24 10:08:11|   0.3|  0.0|INFORM|Permanent License.
+2017-10-24 10:08:11|   0.3|  0.0|INFORM|Machine host name is: GIS-FME
+2017-10-24 10:08:11|   0.3|  0.0|INFORM|START - ProcessID: 4412, peak process memory usage: 32832 kB, current process memory usage: 32764 kB
+2017-10-24 10:08:11|   0.3|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\FME2017\fme.exe' `D:/FME Scheduled_tasks/R_tasks\wb-xlate-1508836090308_7944' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{ab2aea59-509c-4c4d-8e27-aed5cb990f8a}'
+2017-10-24 10:08:12|   0.4|  0.1|INFORM|Shared folders for formats are : C:\Program Files\FME\FME2017\datasources;W:\Resources\FME\Custom Transforms\Formats;\\homedata\home$\SODonnell\FME\Formats
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|Shared folders for transformers are : C:\Program Files\FME\FME2017\transformers;W:\Resources\FME\Custom Transforms\Transformers;\\homedata\home$\SODonnell\FME\Transformers;C:\Users\so'donnell\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|Shared folders for coordinate systems are : W:\Resources\FME\Custom Transforms\CoordinateSystems;\\homedata\home$\SODonnell\FME\CoordinateSystems
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|Shared folders for coordinate system exceptions are : W:\Resources\FME\Custom Transforms\CoordinateSystemExceptions;\\homedata\home$\SODonnell\FME\CoordinateSystemExceptions
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|Shared folders for coordinate system grid overrides are : W:\Resources\FME\Custom Transforms\CoordinateSystemGridOverrides;\\homedata\home$\SODonnell\FME\CoordinateSystemGridOverrides
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : W:\Resources\FME\Custom Transforms\CsmapTransformationExceptions;\\homedata\home$\SODonnell\FME\CsmapTransformationExceptions
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|Shared folders for transformer categories are : W:\Resources\FME\Custom Transforms\TransformerCategories;\\homedata\home$\SODonnell\FME\TransformerCategories
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: Reader Keyword is `DNF_1'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: Reader type is `DNF'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: Current working folder is `D:\FME Scheduled_tasks\R_tasks'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: Temporary folder is `C:\temp\FME_TEMP_SO', set from environment variable `FME_TEMP'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\FME2017\'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'D:\FME Scheduled_tasks\R_tasks/'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'convert_mm_to_gdb_working_bat.fmw'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2017.0.0.1'
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|System Status: 7.59 GB of disk space available in the FME temporary folder (C:\temp\FME_TEMP_SO)
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|System Status: 8.00 TB of virtual memory available
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|Operating System: Microsoft Windows Server 2008 R2 Server 4.0 64-bit Service Pack 1 (Build 7601)
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Platform: WIN64
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|Locale: en_US
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|Code Page: 1252  (ANSI - Latin I)
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: Process limit is 32.00 GB of physical memory
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 96.00 GB of virtual memory
+2017-10-24 10:08:12|   0.4|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 72.00 GB of virtual memory
+2017-10-24 10:08:12|   0.5|  0.1|INFORM|Creating writer for format: 
+2017-10-24 10:08:12|   0.7|  0.2|INFORM|Creating reader for format: OS (GB) MasterMap
+2017-10-24 10:08:12|   0.8|  0.1|INFORM|Trying to find a DYNAMIC plugin for reader named `DNF'
+2017-10-24 10:08:12|   0.8|  0.0|WARN  |FME Configuration: Maximum of 1000 feature(s) will be read starting from feature number 1
+2017-10-24 10:08:12|   0.8|  0.0|INFORM|Loaded module 'DNF' from file 'C:\Program Files\FME\FME2017\plugins/XML.dll'
+2017-10-24 10:08:12|   0.8|  0.0|INFORM|FME API version of module 'DNF' matches current internal version (3.8 20170315)
+2017-10-24 10:08:12|   0.8|  0.1|INFORM|Opening the XML reader with source dataset 'D:\FME Scheduled_tasks\R_tasks\20171023\OSMasterMapTopography_5km2810756_TL0000.gml'
+2017-10-24 10:08:12|   0.8|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2017-10-24 10:08:12|   0.8|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2017-10-24 10:08:12|   0.8|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\FME2017\plugins/LogCount_func.dll'
+2017-10-24 10:08:12|   0.8|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20170315)
+2017-10-24 10:08:12|   0.9|  0.1|INFORM|Creating writer for format: FME Feature Store (FFS)
+2017-10-24 10:08:12|   1.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-10-24 10:08:12|   1.0|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2017-10-24 10:08:12|   1.0|  0.0|INFORM|Pre-processing xfMap 'C:\Program Files\FME\FME2017\xfmap\dnf.xmp' with macro stylesheet 'C:\Program Files\FME\FME2017\xfmap\xfmap_macro.xslt' into 'C:\temp\FME_TEMP_SO\NOMACRO_XFMAP_1508836092790_4412.xml'
+2017-10-24 10:08:13|   1.3|  0.3|INFORM|The XML Reader is using xfMap 'C:\temp\FME_TEMP_SO\NOMACRO_XFMAP_1508836092790_4412.xml'
+2017-10-24 10:08:13|   1.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\FME2017\xml\urimap\gml_aixm.xml' is being used to map from URI to URI
+2017-10-24 10:08:13|   1.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\FME2017\xml\urimap\gml_citygml.xml' is being used to map from URI to URI
+2017-10-24 10:08:13|   1.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\FME2017\xml\urimap\gml_inspire.xml' is being used to map from URI to URI
+2017-10-24 10:08:13|   1.3|  0.0|INFORM|The uri-map document 'C:\Program Files\FME\FME2017\xml\urimap\gml_urimap.xml' is being used to map from URI to URI
+2017-10-24 10:08:13|   1.3|  0.0|INFORM|FME Configuration: Source coordinate system for reader DNF_1[DNF] set to `BritishNatGrid' as read from input data
+2017-10-24 10:08:13|   1.3|  0.0|INFORM|Coordinate System `BritishNatGrid' parameters: CS_NAME=`BritishNatGrid' DESC_NM=`British National Grid (ORD SURV GB)' DT_NAME=`OSGB-7P' GROUP=`LEGACY' MAP_SCL=`1' MAX_LAT=`62' MAX_LNG=`2.5' MIN_LAT=`48' MIN_LNG=`-6' ORG_LAT=`49' PARM1=`-2' PROJ=`TM' QUAD=`1' SCL_RED=`0.99960127170000002' SOURCE=`Mentor Software Client' UNIT=`METER' X_OFF=`400000' Y_OFF=`-100000' ZERO_X=`0.001' ZERO_Y=`0.001' 
+2017-10-24 10:08:14|   2.4|  1.1|INFORM|Emptying factory pipeline
+2017-10-24 10:08:14|   2.4|  0.0|STATS |Router and Unexpected Input Remover(RoutingFactory): Tested 1000 input feature(s), wrote 1000 output feature(s): 1000 matched merge filters, 0 were routed to output, 1000 could not be routed.
+2017-10-24 10:08:14|   2.4|  0.0|STATS |Unexpected Input Remover Nuker(TeeFactory): Cloned 1000 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |BoundaryLine (DNF_1) Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |BoundaryLine_DNF_1 Feature Counter -1 32(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |BoundaryLine_DNF_1 Disabled Nuker -1 32(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |CartographicText (DNF_1) Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |CartographicText_DNF_1 Feature Counter -1 35(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |CartographicText_DNF_1 Disabled Nuker -1 35(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |TopographicLine (DNF_1) Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |TopographicLine_DNF_1 Feature Counter -1 31(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |TopographicLine_DNF_1 Disabled Nuker -1 31(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |CartographicSymbol (DNF_1) Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |CartographicSymbol_DNF_1 Feature Counter -1 34(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |CartographicSymbol_DNF_1 Disabled Nuker -1 34(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |TopographicArea (DNF_1) Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |TopographicArea_DNF_1_0_LdumRel4aAk= Feature Counter -1 30(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |TopographicArea_DNF_1_1_Mwks8tnjuic= Feature Counter -1 79(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |TopographicPoint (DNF_1) Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |TopographicPoint_DNF_1 Feature Counter -1 33(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |TopographicPoint_DNF_1 Disabled Nuker -1 33(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |queryExtent (DNF_1) Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |queryExtent_DNF_1 Feature Counter -1 36(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |queryExtent_DNF_1 Disabled Nuker -1 36(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_6 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_6_OUTPUT Feature Counter -1 44(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_6_OUTPUT Disabled Nuker -1 44(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_5 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_5_OUTPUT Feature Counter -1 74(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_5_OUTPUT Disabled Nuker -1 74(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_7 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_7_OUTPUT Feature Counter -1 100(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_7_OUTPUT Disabled Nuker -1 100(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_5 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_5_OUTPUT Feature Counter -1 43(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_5_OUTPUT Disabled Nuker -1 43(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_6 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_6_OUTPUT Feature Counter -1 71(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_6_OUTPUT Disabled Nuker -1 71(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_6 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_6_OUTPUT Feature Counter -1 99(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_6_OUTPUT Disabled Nuker -1 99(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_4 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_4_OUTPUT Feature Counter -1 42(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_4_OUTPUT Disabled Nuker -1 42(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_2 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_2_OUTPUT Feature Counter -1 68(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_2_OUTPUT Disabled Nuker -1 68(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_5 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_5_OUTPUT Feature Counter -1 98(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_5_OUTPUT Disabled Nuker -1 98(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_7 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_7_OUTPUT Feature Counter -1 45(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_7_OUTPUT Disabled Nuker -1 45(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_7 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_7_OUTPUT Feature Counter -1 65(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_7_OUTPUT Disabled Nuker -1 65(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_4 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_4_OUTPUT Feature Counter -1 97(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_4_OUTPUT Disabled Nuker -1 97(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_3 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_3_OUTPUT Feature Counter -1 41(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_3_OUTPUT Disabled Nuker -1 41(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_8 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_8_OUTPUT Feature Counter -1 62(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_8_OUTPUT Disabled Nuker -1 62(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_3 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_3_OUTPUT Feature Counter -1 96(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_3_OUTPUT Disabled Nuker -1 96(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_2 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_2_OUTPUT Feature Counter -1 40(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_2_OUTPUT Disabled Nuker -1 40(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_9 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_9_OUTPUT Feature Counter -1 59(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_9_OUTPUT Disabled Nuker -1 59(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_2 (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_2_OUTPUT Feature Counter -1 95(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_2_OUTPUT Disabled Nuker -1 95(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer OUTPUT Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_OUTPUT_0_FFIuKLJymLk= Feature Counter -1 38(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_OUTPUT_1_DwSUCPjfsfg= Feature Counter -1 77(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer OUTPUT Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_OUTPUT_0_JV5u6+unT2I= Feature Counter -1 56(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_OUTPUT_1_zxgSiKgnAxI= Feature Counter -1 81(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator OUTPUT Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_OUTPUT_0_lQ+3mj5tm0E= Feature Counter -1 94(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_OUTPUT_1_Et/p63Aqn4M= Feature Counter -1 83(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_Output_DirCreator(CreationFactory): Created 1 features
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_Output_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_Output_FeatureDirector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_Output___FeatureDirector1(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_Output_VectorSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_Output___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeCreator_Output_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|INFORM|AttributeCreator_Output_Recorder(RecorderFactory): Recorded 0 feature(s) to file `C:\temp\FME_TEMP_SO\convert_mm_to_gdb_working_bat_100811\inspector.ffs'
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_Output_DirCreator(CreationFactory): Created 1 features
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_Output_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_Output_FeatureDirector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_Output___FeatureDirector1(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_Output_VectorSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_Output___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeRenamer_Output_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.4|  0.0|INFORM|AttributeRenamer_Output_Recorder(RecorderFactory): Recorded 0 feature(s) to file `C:\temp\FME_TEMP_SO\convert_mm_to_gdb_working_bat_100811\inspector.ffs'
+2017-10-24 10:08:14|   2.4|  0.0|STATS |AttributeExposer_Output_DirCreator(CreationFactory): Created 1 features
+2017-10-24 10:08:14|   2.5|  0.0|STATS |AttributeExposer_Output_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.5|  0.0|STATS |AttributeExposer_Output_FeatureDirector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-10-24 10:08:14|   2.5|  0.0|STATS |AttributeExposer_Output___FeatureDirector1(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-10-24 10:08:14|   2.5|  0.0|STATS |AttributeExposer_Output_VectorSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.5|  0.0|STATS |AttributeExposer_Output___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.5|  0.0|STATS |AttributeExposer_Output_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.5|  0.0|INFORM|AttributeExposer_Output_Recorder(RecorderFactory): Recorded 0 feature(s) to file `C:\temp\FME_TEMP_SO\convert_mm_to_gdb_working_bat_100811\inspector.ffs'
+2017-10-24 10:08:14|   2.5|  0.0|STATS |TopographicArea_DirCreator(CreationFactory): Created 1 features
+2017-10-24 10:08:14|   2.5|  0.0|STATS |TopographicArea_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.5|  0.0|STATS |TopographicArea_FeatureDirector(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-10-24 10:08:14|   2.5|  0.0|STATS |TopographicArea___FeatureDirector1(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2017-10-24 10:08:14|   2.5|  0.0|STATS |TopographicArea_VectorSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.5|  0.0|STATS |TopographicArea___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.5|  0.0|STATS |TopographicArea_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.5|  0.0|INFORM|TopographicArea_Recorder(RecorderFactory): Recorded 0 feature(s) to file `C:\temp\FME_TEMP_SO\convert_mm_to_gdb_working_bat_100811\inspector.ffs'
+2017-10-24 10:08:14|   2.5|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2017-10-24 10:08:14|   2.5|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.5|  0.0|STATS |f_123(CreationFactory): Created 1 features
+2017-10-24 10:08:14|   2.5|  0.0|STATS |f_124(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-10-24 10:08:14|   2.5|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-10-24 10:08:14|   2.5|  0.0|INFORM|Feature output statistics for `FFS' writer using keyword `W_1':
+2017-10-24 10:08:14|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-10-24 10:08:14|   2.5|  0.0|STATS |                               Features Written
+2017-10-24 10:08:14|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-10-24 10:08:14|   2.5|  0.0|STATS |==============================================================================
+2017-10-24 10:08:14|   2.5|  0.0|STATS |Total Features Written                                                       0
+2017-10-24 10:08:14|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-10-24 10:08:14|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-10-24 10:08:14|   2.5|  0.0|STATS |                            Features Read Summary
+2017-10-24 10:08:14|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-10-24 10:08:14|   2.5|  0.0|STATS |CartographicText                                                           999
+2017-10-24 10:08:14|   2.5|  0.0|STATS |queryExtent                                                                  1
+2017-10-24 10:08:14|   2.5|  0.0|STATS |==============================================================================
+2017-10-24 10:08:14|   2.5|  0.0|STATS |Total Features Read                                                       1000
+2017-10-24 10:08:14|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-10-24 10:08:14|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-10-24 10:08:14|   2.5|  0.0|STATS |                           Features Written Summary
+2017-10-24 10:08:14|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-10-24 10:08:14|   2.5|  0.0|STATS |==============================================================================
+2017-10-24 10:08:14|   2.5|  0.0|STATS |Total Features Written                                                       0
+2017-10-24 10:08:14|   2.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-10-24 10:08:14|   2.5|  0.0|INFORM|Translation was SUCCESSFUL with 1 warning(s) (0 feature(s) output)
+2017-10-24 10:08:14|   2.5|  0.0|INFORM|FME Session Duration: 2.6 seconds. (CPU: 2.0s user, 0.2s system)
+2017-10-24 10:08:14|   2.5|  0.0|INFORM|END - ProcessID: 4412, peak process memory usage: 54316 kB, current process memory usage: 51420 kB
